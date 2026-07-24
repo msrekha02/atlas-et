@@ -4,6 +4,8 @@
 
 Built for the **Industrial Knowledge Intelligence** challenge: asset-intensive plants run across 7–12 disconnected document systems, ~35% of working hours are lost searching for information, and a retiring generation is taking decades of undocumented knowledge with them. ATLAS attacks all three at once.
 
+![ATLAS Demo](https://drive.google.com/uc?export=view&id=1vazaid3m0vnTF1EI0vSRE2BoGwk5NFbX)
+
 ---
 
 ## What it does (mapped to the challenge)
